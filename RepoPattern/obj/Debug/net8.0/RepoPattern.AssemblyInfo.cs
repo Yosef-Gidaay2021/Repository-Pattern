@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepoPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75fb8fdf7d0bb85dbfdca8a31160d5261277bd1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b918dc0e46c76b4760883dd6109a6009d6256d8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepoPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepoPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
